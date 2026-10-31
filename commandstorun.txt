@@ -1,0 +1,10 @@
+************************************************************
+just to compile typescript code use the below command
+it will converts typescript to javascript code
+tsc filename.ts --> converts the file into filename.js 
+*************************************************************
+to run or execute javascript(.js) or typescript(.ts) file
+use the below command
+node filename.ts --> for typescript
+node filename.js --> for javascript
+************************************************************
